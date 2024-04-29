@@ -1,0 +1,4 @@
+.DS_store
+training/tennis-ball-detection-6/
+models/
+*.pt
