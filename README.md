@@ -21,6 +21,10 @@ If you're interested in how I trained these models, feel free to check out the n
 * Tennis ball detector: training/tennis_ball_detector.ipynb
 * Tennis court keypoints detector: training/tennis_court_keypoints_training.ipynb
 
+Models are saved here:
+* Tennis ball detector model: https://drive.google.com/file/d/1Mn7YgqC76DxXuV6xg22gj-779zl4gVFp/view?usp=sharing
+* Tennis court keypoints detector model: https://drive.google.com/file/d/1rh1oKWsFj_sJhY3-gUUKkgyYt3U2PMY_/view?usp=sharing
+
 ## Requirements
 Here's what you'll need to run this project:
 * Python 3.8
